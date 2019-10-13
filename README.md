@@ -21,6 +21,6 @@
 
 ```
 
-# [omparable-vs-comparator](https://www.geeksforgeeks.org/comparable-vs-comparator-in-java/)
+# [Comparable-vs-comparator](https://www.geeksforgeeks.org/comparable-vs-comparator-in-java/)
 
 

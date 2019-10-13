@@ -12,12 +12,12 @@
 	void readFields(JsonNode rootNode)
 	{
 		Iterator<Map.Entry<String, JsonNode>> fieldsIterator = rootNode.fields();
-        int pos = 0;
-        while (fieldsIterator.hasNext()) {
-            Map.Entry<String, JsonNode> fieldNode = fieldsIterator.next();
+		int pos = 0;
+		while (fieldsIterator.hasNext()) {
+			Map.Entry<String, JsonNode> fieldNode = fieldsIterator.next();
 
-        }
-    }
+		}
+	}
 
 ```
 
